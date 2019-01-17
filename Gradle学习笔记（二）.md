@@ -501,7 +501,7 @@ repositories {
 
 
 **Github：**https://github.com/JefferyJu/gradle-demo.git
-
+**imooc：**https://www.imooc.com/learn/833
 
 
 
