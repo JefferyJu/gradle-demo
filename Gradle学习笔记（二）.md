@@ -495,3 +495,17 @@ repositories {
 >   gradle.properties中 group = 'com.imooc.gradle' 的问题 
 >
 >   group是配置文件,属性值不需要单引号的.改为 group= com.imooc.gradle
+
+
+
+
+
+**Github：**https://github.com/JefferyJu/gradle-demo.git
+
+
+
+
+
+>   **至此，Gradle的学习不是终结，而是刚刚开始。**
+
+最后，感谢慕课网以及skyding老师 ！ 
